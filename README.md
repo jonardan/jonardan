@@ -25,7 +25,7 @@ I enjoy building things from the ground up — from training deep learning model
 - Embedded Systems 
 - Quantitative finance & automation  
 - Product Development  
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jonardan.jonardan) 
 ---
 
 ### 📫 Connect
